@@ -25,6 +25,8 @@ The OCR Projects Hub is your one-stop destination to explore a variety of Optica
 
 **Installation**: Clone the repository and install the required dependencies:
 
+Download and Install Tesseract [Download](https://digi.bib.uni-mannheim.de/tesseract/)
+
    ```bash
    git clone https://github.com/sanikamal/ocr-projects-hub.git
    cd ocr-projects-hub
