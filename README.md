@@ -1,10 +1,10 @@
 # OCR Projects Hub 📚📷🔍
 
-Welcome to the OCR Projects Hub! 🚀 This repository is a treasure trove of diverse OCR projects and interactive notebooks in Python, all powered by `OpenCV`, `Pytesseract`, `EasyOCR`, `keras-ocr`, `Pillow`, and the magic of Machine Learning! 🧙✨
+Welcome to the **OCR Projects Hub**! 🚀 This repository is a treasure trove of diverse OCR projects, code scripts and interactive notebooks in Python, all powered by `OpenCV`, `Pytesseract`, `EasyOCR`, `keras-ocr`, `Pillow`,`Cloud OCR APIs`, and the magic of Machine Learning! 🧙✨
 
 ## About🎩✨
 
-The OCR Projects Hub is your one-stop destination to explore a variety of Optical Character Recognition (OCR) projects and dive deep into the world of text extraction with Python's finest tools! 🎩🔮
+The **OCR Projects Hub** is your one-stop destination to explore a variety of **Optical Character Recognition (OCR)** projects and dive deep into the world of text extraction with Python's finest tools! 🎩🔮
 
 ## What's Inside?🔮✨
 
@@ -33,11 +33,11 @@ Download and Install Tesseract [Download](https://digi.bib.uni-mannheim.de/tesse
    pip install -r requirements.txt
    ```
 
-## Projects Showcase🧙‍♂️📂
+## Projects🧙‍♂️📂
 
 Visit the [Projects](projects/) directory to explore a wide range of OCR projects, each with its unique challenges and solutions! 🌟
 
-## Notebook Library🧙‍♂️📘
+## Notebook🧙‍♂️📘
 
 Browse the [Notebooks](notebooks/) section to access interactive Jupyter notebooks that guide you through the OCR process step by step! 📘
 
